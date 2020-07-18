@@ -1,0 +1,65 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background: #1e1e1e;
+}
+
+.service{
+  width: 100%;
+  height: 150px;
+  background: black;
+}
+
+.service::after{
+  content: '';
+  clear: both;
+  display: table;
+}
+
+.in{
+  width: 20%;
+  height: 150px;
+  float: left;
+}
+
+.out{
+  width: 80%;
+  height: 150px;
+  float: right;
+}
+
+.out nav{
+  margin: 0;
+  padding: 0;
+}
+
+.out nav ul{
+
+}
+
+.out nav ul li{
+  margin-top: 73px;
+  margin-left: 2%;
+  display: inline-block;
+  font-size: 20px;
+  border: 2px;
+  border-radius: 10px;
+}
+
+.out nav ul li:hover{
+  border-top: 2px solid blue;
+  border-bottom: 2px solid orange;
+  border-left: 2px solid blue;
+  border-right: 2px solid orange;
+}
+
+.out nav ul li a{
+  color: white;
+  text-decoration: none;
+
+}
