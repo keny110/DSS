@@ -137,6 +137,21 @@ section{
   border-right: 2px solid darkgrey;
 }
 
+.it button{
+  margin-top: 20px;
+  margin-left: 5%;
+  background: black;
+  color: white;
+  border: 2px;
+}
+
+.it button:hover{
+  border-top: 2px solid darkgrey;
+  border-bottom: 2px solid lightgrey;
+  border-left: 2px solid lightgrey;
+  border-right: 2px solid darkgrey;
+}
+
 .inbox{
   width: 50%;
   float: right;
