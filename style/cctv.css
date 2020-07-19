@@ -68,5 +68,8 @@ body{
 .out nav ul li a{
   color: white;
   text-decoration: none;
+}
 
+section{
+  width: 100%;
 }
