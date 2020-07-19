@@ -87,6 +87,7 @@ section{
 
 .to{
   width: 90%;
+  margin-left: 5%;
   border: 2px;
 }
 
@@ -94,9 +95,16 @@ section{
   width: 100%;
 }
 
+.it label{
+  color: white;
+  margin-left: 5%;
+  margin-bottom: 20px;
+}
+
 .it input{
   width: 90%;
   height: 35px;
+  margin-left: 5%;
   background: black;
   color: grey;
   font-size: 20px;
@@ -105,6 +113,24 @@ section{
 }
 
 .it input:hover{
+  border-top: 2px solid darkgrey;
+  border-bottom: 2px solid lightgrey;
+  border-left: 2px solid lightgrey;
+  border-right: 2px solid darkgrey;
+}
+
+.it textarea{
+  width: 90%;
+  height: 35px;
+  margin-left: 5%;
+  background: black;
+  color: grey;
+  font-size: 20px;
+  border-radius: 10px;
+  border: 2px;
+}
+
+.it textarea:hover{
   border-top: 2px solid darkgrey;
   border-bottom: 2px solid lightgrey;
   border-left: 2px solid lightgrey;
