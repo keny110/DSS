@@ -109,7 +109,7 @@ section{
   color: grey;
   font-size: 20px;
   border-radius: 10px;
-  border: 2px;
+  border: 2px solid black;
 }
 
 .it input:hover{
@@ -121,13 +121,13 @@ section{
 
 .it textarea{
   width: 90%;
-  height: 35px;
+  height: 150px;
   margin-left: 5%;
   background: black;
   color: grey;
   font-size: 20px;
   border-radius: 10px;
-  border: 2px;
+  border: 2px solid black;
 }
 
 .it textarea:hover{
@@ -144,7 +144,6 @@ section{
   color: white;
   border: 2px solid white;
   border-radius: 10px;
-
 }
 
 .it button:hover{
