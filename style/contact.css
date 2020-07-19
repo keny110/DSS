@@ -138,6 +138,8 @@ section{
 }
 
 .it button{
+  width: 10%;
+  height: 50px;
   margin-top: 20px;
   margin-left: 5%;
   background: black;
