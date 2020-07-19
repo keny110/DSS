@@ -93,12 +93,21 @@ section{
 }
 
 .it{
+  position: relative;
   width: 100%;
 }
 
 .it label{
   color: white;
   margin-left: 5%;
+}
+
+.it i{
+  position: absolute;
+  left: 5%;
+  top:12px;
+  padding: 13px 11px;
+  color: white;
 }
 
 .it input{
