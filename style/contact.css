@@ -68,5 +68,50 @@ body{
 .out nav ul li a{
   color: white;
   text-decoration: none;
+}
 
+section{
+  width: 100%;
+}
+
+.contatnier::after{
+  content: '';
+  clear: both;
+  display: table;
+}
+
+.box{
+  width: 50%;
+  float: left;
+}
+
+.to{
+  width: 90%;
+  border: 2px;
+}
+
+.it{
+  width: 100%;
+}
+
+.it input{
+  width: 90%;
+  height: 35px;
+  background: black;
+  color: grey;
+  font-size: 20px;
+  border-radius: 10px;
+  border: 2px;
+}
+
+.it input:hover{
+  border-top: 2px solid darkgrey;
+  border-bottom: 2px solid lightgrey;
+  border-left: 2px solid lightgrey;
+  border-right: 2px solid darkgrey;
+}
+
+.inbox{
+  width: 50%;
+  float: right;
 }
