@@ -81,12 +81,12 @@ section{
 }
 
 .box{
-  width: 70%;
+  width: 40%;
   float: left;
 }
 
 .inbox{
-  width: 30%;
+  width: 60%;
   float: right;
 }
 
