@@ -79,3 +79,13 @@ section{
   clear: both;
   display: table;
 }
+
+.box{
+  width: 70%;
+  float: left;
+}
+
+.inbox{
+  width: 30%;
+  float: right;
+}
