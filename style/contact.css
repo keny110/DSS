@@ -161,10 +161,10 @@ section{
 }
 
 .it button:hover{
-  border-top: 2px solid darkgrey;
+  border-top: 2px solid green;
   border-bottom: 2px solid lightgreen;
   border-left: 2px solid lightgreen;
-  border-right: 2px solid darkgrey;
+  border-right: 2px solid green;
 }
 
 .inbox{
