@@ -89,3 +89,15 @@ section{
   width: 60%;
   float: right;
 }
+
+.inbox h2{
+  color: purple;
+  text-align: center;
+  margin-top: 2%;
+}
+
+.inbox p{
+  color: white;
+  text-align: center;
+  margin-top: 5%;
+}
