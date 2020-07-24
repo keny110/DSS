@@ -89,3 +89,14 @@ section{
   width: 30%;
   float: right;
 }
+
+.inbox h2{
+  text-align: center;
+  color: lightgreen;
+  margin-top: 20px;
+}
+
+.inbox p{
+  color: white;
+  text-align: center;
+}
