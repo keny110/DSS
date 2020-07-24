@@ -73,3 +73,9 @@ body{
 section{
   width: 100%;
 }
+
+.contatnier::after{
+  content: '';
+  clear: both;
+  display: table;
+}
