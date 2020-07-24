@@ -93,11 +93,12 @@ section{
 .inbox h2{
   text-align: center;
   color: lightgreen;
-  margin-top: 3%;
+  margin-top: 40px;
+  font-size: 25px;
 }
 
 .inbox p{
-  margin-top: 4s%;
+  margin-top: 40px;
   color: white;
   text-align: center;
 }
