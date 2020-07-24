@@ -134,6 +134,7 @@ section{
 .it textarea{
   width: 90%;
   height: 150px;
+  margin-top: 2%;
   margin-left: 5%;
   background: black;
   color: green;
