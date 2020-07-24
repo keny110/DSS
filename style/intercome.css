@@ -94,10 +94,12 @@ section{
   color: purple;
   text-align: center;
   margin-top: 2%;
+  font-size: 25px;
 }
 
 .inbox p{
   color: white;
   text-align: center;
   margin-top: 5%;
+  font-size: 22px;
 }
