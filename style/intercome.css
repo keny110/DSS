@@ -73,3 +73,19 @@ body{
 section{
   width: 100%;
 }
+
+.contatnier::after{
+  content: '';
+  clear: both;
+  display: table;
+}
+
+.box{
+  width: 40%;
+  float: left;
+}
+
+.inbox{
+  width: 60%;
+  float: right;
+}
